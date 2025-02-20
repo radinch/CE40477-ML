@@ -1,2 +1,2 @@
 # CE40477-ML
-Practical assignments for "Machine Learning" course at SUT 
+This repository contains practical Jupiter notebook assignments of "Machine Learning" course in the Fall 2024 at Sharif University of Technology.
